@@ -14,6 +14,7 @@ int main(){
 	if(isEven(a)) cout<<a<<" la so chan";
 	else cout<<a<<" la so le" <<endl;
 	cout << "Cau hay lam";
+	cout << "thu xem co dong nay ko ?";
 	return 0;
 	
 }
