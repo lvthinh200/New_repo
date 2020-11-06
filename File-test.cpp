@@ -12,7 +12,8 @@ int main(){
 	int a;
 	cin >> a;
 	if(isEven(a)) cout<<a<<" la so chan";
-	else cout<<a<<" la so le";
+	else cout<<a<<" la so le" <<endl;
+	cout << "Cau hay lam";
 	return 0;
 	
 }
