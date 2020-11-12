@@ -15,6 +15,7 @@ int main(){
 	else cout<<a<<" la so le" <<endl;
 	cout << "Cau hay lam";
 	cout << "thu xem co dong nay ko ?";
+	cout << "ga";
 	return 0;
 	
 }
